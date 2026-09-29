@@ -1,4 +1,3 @@
-```markdown
 # Subnet Mask & Subnetting (Simplified Guide)
 
 ---
