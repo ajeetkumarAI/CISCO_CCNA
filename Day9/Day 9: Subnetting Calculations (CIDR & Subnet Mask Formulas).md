@@ -1,4 +1,4 @@
-# Day 7: Subnetting Calculations (CIDR & Subnet Mask Formulas)
+# Day 9: Subnetting Calculations (CIDR & Subnet Mask Formulas)
 
 ---
 
